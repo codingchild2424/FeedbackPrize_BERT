@@ -1,0 +1,5 @@
+src/models/
+src/checkpoints/
+src/__pycache__/
+preprocessor/
+datasets/
