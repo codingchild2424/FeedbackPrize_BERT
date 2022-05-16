@@ -1,5 +1,6 @@
 src/models/
 src/checkpoints/
 src/__pycache__/
-preprocessor/
+src/.checkpoints/
 datasets/
+results/
